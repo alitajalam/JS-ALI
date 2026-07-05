@@ -16,3 +16,5 @@ console.log(typeof "Alitaj");
 console.log(typeof age);
 console.log(typeof null); // object
 console.log(typeof undefined);// undefined
+// Stack memory store premitive value examples String ,Number,Boolean ,null,undefined,symbole 
+// Heap memory store not premitive/reference value examples object, array,function

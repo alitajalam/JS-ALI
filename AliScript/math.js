@@ -1,7 +1,7 @@
-const score = 100;
+const score = 1000;
 console.log(score);
 
-const newScore=new Number(100)
+const newScore=new Number(1000)
 console.log(newScore);
 console.log(newScore.toString().length);
 console.log(newScore.toFixed(2));
